@@ -1,1 +1,0 @@
-# SQL_Basics_Assignment.sql
